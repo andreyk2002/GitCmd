@@ -1,0 +1,40 @@
+From 270672adca89cb4d6ecb57bfbb12dd1e2281df35 Mon Sep 17 00:00:00 2001
+From: Andrey <Kuksa>
+Date: Mon, 12 Jul 2021 14:57:10 +0300
+Subject: [PATCH 2/2] Added patch
+
+---
+ 0001-Modifyed-1.txt.patch | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+ create mode 100644 0001-Modifyed-1.txt.patch
+
+diff --git a/0001-Modifyed-1.txt.patch b/0001-Modifyed-1.txt.patch
+new file mode 100644
+index 0000000..d82b154
+--- /dev/null
++++ b/0001-Modifyed-1.txt.patch
+@@ -0,0 +1,21 @@
++From 5c95d4ddfa94b7454635de792facd5162861ff0e Mon Sep 17 00:00:00 2001
++From: Andrey <Kuksa>
++Date: Mon, 12 Jul 2021 14:16:12 +0300
++Subject: [PATCH] Modifyed 1.txt
++
++---
++ 1.txt | 4 ++--
++ 1 file changed, 2 insertions(+), 2 deletions(-)
++
++diff --git a/1.txt b/1.txt
++index 9cead7e..15d6327 100644
++--- a/1.txt
+++++ b/1.txt
++@@ -1,2 +1,2 @@
++-Part 1
++-We are going to practice some skills obtained in the previous task. If you come across something you still don’t know, please use links provided in the descriptions, internet search, other mentees and you mentor as sources modify123 of knowledge and help. For this task you will create two separate branches git_1 and git_2 in your remote repository and local tracked branches with same names. Both these branches should be made of the modify git_task branch.
+++Part 1 modify
+++We are going modify 123 12to practice some skills obtained in the previous task. If you come across something you still don’t know, please use links provided in the descriptions, internet search, other mentees and you mentor as sources modify123 of knowledge and help. For this task you will create two separate branches git_1 and git_2 in your remote repository and local tracked branches with same names. Both these branches should be made of the modify git_task branch.
++-- 
++2.24.1.windows.2
++
+-- 
+2.24.1.windows.2
+
