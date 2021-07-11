@@ -1,0 +1,11 @@
+Transfer changes of commit from Step 8 only to git_2, using cherrypick command.
+git_2: Concatenate the last two commits using reset + commit commands.
+git_2: Change date, author and message of the last commit and add non-empty thirdFile.txt file to it.
+git_2: Create a new commit that reverts changes of the last one.
+git_2: Create and commit thirdFile.txt file.
+git_2: Run command that removes all changes of the last two commits.
+Synchronize git_1 and git_2 with a remote repository.
+Clone your project to another folder.
+folder2: git_1: Change two lines in firstFile.txt. Commit + Push.
+folder1: git_1: Change another two lines in firstFile.txt.
+*folder1: git_1
