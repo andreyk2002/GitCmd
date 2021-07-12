@@ -7,5 +7,10 @@ git_2: Run command that removes all changes of the last two commits.
 Synchronize git_1 and git_2 with a remote repository.
 Clone your project to another folder.
 folder2: git_1: Change two lines in firstFile.txt. Commit + Push.
+<<<<<<< HEAD
 12foldedfasdfasfr1: git_rqerwqr1: Change another two lines in firstFile.txt.
 12fvadafolder1: git_1rqwerwerq
+=======
+44foldedfasdfasfr1: git_1: Chadsafsnge another two lines in firstFile.txt.
+55fvadafolder1: git_dasfdsfa1
+>>>>>>> git_2
