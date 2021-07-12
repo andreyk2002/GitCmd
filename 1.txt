@@ -1,0 +1,2 @@
+Part 1
+We are going to practice some skills obtained in the previous task. If you come across something you still don’t know, please use links provided in the descriptions, internet search, other mentees and you mentor as sources of knowledge and help. For this task you will create two separate branches git_1 and git_2 in your remote repository and local tracked branches with same names. Both these branches should be made of the git_task branch.
